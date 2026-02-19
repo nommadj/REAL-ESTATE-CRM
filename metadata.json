@@ -1,0 +1,5 @@
+{
+  "name": "Real Estate Broker CRM",
+  "description": "A comprehensive CRM mobile application for real estate brokers and agents to track projects, inventory, commissions, and company information in real-time. Now with full offline support as a Progressive Web App (PWA).",
+  "requestFramePermissions": []
+}
